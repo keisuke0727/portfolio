@@ -1,0 +1,71 @@
+h2{
+    text-align: center;
+    font-size: 6vw;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #000000ba;
+    color: white;
+    border-radius: 10px;
+    margin-right: 10vw;
+    margin-left: 10vw;
+}
+h3{
+    text-align: center;
+    font-size: 3vw;
+}
+h4{
+    margin: 5px;
+}
+p{
+    margin: 5px;
+}
+ul{
+    margin: 5px;
+    padding: 2vw;
+}
+#header img{
+    width: 100vw;
+}
+#header h1{
+    font-size: 20vw;
+    color: white;
+    position: absolute;
+    top: -4vw;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0;
+}
+#plofimage{
+    width: 30vw;
+}
+#profilepict{
+    vertical-align: middle;
+    position: absolute;
+    width: 8vw;
+    left: 25%;
+}
+#profile ul{
+    display: inline-block;
+    position: relative;
+    width: 60vw;
+    vertical-align: top;
+    padding-left: 5%;
+}
+#productionresultspict{
+    vertical-align: middle;
+    position: absolute;
+    width: 8vw;
+    left: 25%;
+}
+.productionthumbnail{
+    width: 96%;
+    box-shadow: 2px 5px 10px grey;
+    border: 2px solid;
+    margin: 1vw;
+}
+#contactpict{
+    vertical-align: middle;
+    position: absolute;
+    width: 8vw;
+    left: 21%;
+}
